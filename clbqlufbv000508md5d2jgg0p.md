@@ -4,13 +4,9 @@
 
 ### Check it out 👉 [LIVE DEMO 🚀🐱‍🏍](https://hamza-zaidi-portfolio-shjz.vercel.app/) or See the [Code](https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks/)
 
-`Read The Docs How to Deploy Live Website on` [**Verce**](https://vercel.com/)**l**
-
 ## [React Bricks](https://reactbricks.com/):
 
 The [**React Bricks**](https://reactbricks.com/) is for developers to make apps create visually editable blocks as React components for `Next JS, Gatsby, Remix` **is** just not more **than 5 mins** and `Create, Customize and Edit` your app and **Deploy your App** in just a few mins. All the advantages of a **Headless CMS**, but your users will love it.
-
-![React Bricks](https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/CSM-GIF.gif align="left")
 
 ![React Bricks](https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/Content-editing-optimage1.png align="right")
 
@@ -30,11 +26,7 @@ yarn dev
 
 `git clone https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks`
 
-also extract the subdirectory **portfolio-app** or **you can Fork and Run on** `Replit` `Repl` your machine 💻
-
-## 📸 Screenshot:
-
-[![Project Screenshot](https://user-images.githubusercontent.com/52501040/179521448-907e0162-1c6d-4c2e-ac20-02ad66dd32f2.png align="left")](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1)
+also extract the subdirectory **portfolio app or you can Fork and Run it on** `Replit`
 
 ### 📖 Documentation:
 
@@ -42,10 +34,6 @@ also extract the subdirectory **portfolio-app** or **you can Fork and Run on** `
     
 *   **Also Please Read How to Deploy your Project on** `Vercel`
     
-
-### 📖 Licence
-
-`MIT LICENCE` Read `License` document for more details =&gt;
 
 # Bye! 👋
 
