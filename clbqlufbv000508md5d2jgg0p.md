@@ -1,16 +1,14 @@
 # Portfolio App By React Bricks
 
-# Portfolio-App-By-React-Bricks
-
-**I have made Portfolio App Built with** `React Bricks` **&** `TypeScript` **in** [**Replit**](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) **which is easy ❣ and Anyone can use to make apps in just a few minutes ⌛ you just know How to Code Simply Create a Blog or Portfolio App in Minutes ⌚**
+**Hello Guys in this Blog I have to tell you about my project I have built a Portfolio App Built with** `React Bricks` **&** `TypeScript` **in** [**Replit**](https://replit.com/@HamzaJaffar/Portfolio-App-By-React-Bricks?v=1) **which is easy ❣ and Anyone can use to make apps in just a few minutes ⌛ you just know How to Code Simply Create a** `Blog` **or** `Portfolio App` **in Minutes ⌚**
 
 ### Check it out 👉 [LIVE DEMO 🚀🐱‍🏍](https://hamza-zaidi-portfolio-shjz.vercel.app/) or See the [Code](https://github.com/HamzaZaidiX/Portfolio-App-By-React-Bricks/)
 
-**Read The Docs How to Deploy Live Website on** [**Vercel**](https://vercel.com/)
+`Read The Docs How to Deploy Live Website on` [**Verce**](https://vercel.com/)**l**
 
 ## [React Bricks](https://reactbricks.com/):
 
-The [**React Bricks**](https://reactbricks.com/) is for developers to make apps create visually editable blocks as React components for **Next.js, Gatsby, Remix is** just not more **than 5 mins** and `create, customize and edit` your app and **deploy your App** in just a few mins. All the advantages of a **headless CMS**, but your users will love it.
+The [**React Bricks**](https://reactbricks.com/) is for developers to make apps create visually editable blocks as React components for `Next JS, Gatsby, Remix` **is** just not more **than 5 mins** and `Create, Customize and Edit` your app and **Deploy your App** in just a few mins. All the advantages of a **Headless CMS**, but your users will love it.
 
 ![React Bricks](https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2022/06/CSM-GIF.gif align="left")
 
