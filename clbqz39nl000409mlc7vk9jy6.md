@@ -6,7 +6,7 @@ Artificial intelligence research company OpenAI has launched **ChatGPT**, a chat
 
 ### What is ChatGPT?
 
-**ChatGPT** is a chatbot based on the language model GPT-3.5 that uses deep learning to generate human-like text. ChatGPT, developed by OpenAI, can give natural answers to many questions, like a personal teacher who knows almost everything. For this reason, it is shown as an alternative to [Google](https://expatguideturkey.com/?s=Google).
+**ChatGPT** is a chatbot based on the language model GPT-3.5 that uses deep learning to generate human-like text. ChatGPT, developed by OpenAI, can give natural answers to many questions, like a personal teacher who knows almost everything. For this reason, it is shown as an alternative that can easily write a **Blog** or **Code** 😯✍.
 
 #### **ChatGPT features**
 
